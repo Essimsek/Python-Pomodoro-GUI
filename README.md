@@ -9,3 +9,12 @@ Looks Like this
 
 
 <img width="564" alt="Ekran Resmi 2023-03-27 15 05 54" src="https://user-images.githubusercontent.com/102151181/227938164-b980a4c9-a324-4491-a916-c1e826863627.png">
+
+
+
+
+
+
+
+
+<img width="568" alt="Ekran Resmi 2023-03-27 15 07 07" src="https://user-images.githubusercontent.com/102151181/227938433-518b6605-597a-45ab-85e5-e571884b499a.png">
